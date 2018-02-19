@@ -1,0 +1,4 @@
+#Lista de expresiones regulares en la URL bloqueadas desde la red local LAN
+juegos
+porno
+sexo

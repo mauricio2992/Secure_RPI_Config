@@ -1,0 +1,19 @@
+#Lista de extensiones restringidas desde la red local LAN
+\.iso$
+\.exe$
+\.avi$
+\.mp4$
+\.mp3$
+\.mpg$
+\.mpeg$
+\.mov$
+\.wma$
+\.wmv$
+\.wav$
+\.bat$
+\.ps1$
+\.zip$
+\.rar$
+\.img$
+\.sh$
+\.py$
