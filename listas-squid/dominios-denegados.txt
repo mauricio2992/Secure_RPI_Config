@@ -1,3 +1,2 @@
 #Lista de dominios restringidos desde la red local LAN
-.aunar.edu.co
-.youtube.com
+
